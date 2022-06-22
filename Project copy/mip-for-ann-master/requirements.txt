@@ -7,6 +7,6 @@ pandas==0.22.0
 matplotlib==2.1.1
 opencv_python==3.4.2.17
 prettytable==0.7.2
-numpy==1.13.3
+numpy==1.22.0
 Pillow==8.1.1
 mosek==9.1.12
