@@ -8,5 +8,5 @@ matplotlib==2.1.1
 opencv_python==4.2.0.32
 prettytable==0.7.2
 numpy==1.22.0
-Pillow==9.3.0
+Pillow==13.0.0
 mosek==9.1.12
