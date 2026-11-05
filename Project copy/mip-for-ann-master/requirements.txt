@@ -1,6 +1,6 @@
 scipy==0.19.1
 seaborn==0.9.0
-torch==1.2.0
+torch==2.13.0
 cvxpy==1.0.25
 torchvision==0.4.0
 pandas==0.22.0
